@@ -6,7 +6,7 @@ Web development project built during DevDays 2026 workshop organized by GDG On C
 - CSS
 
 ## Live Demo
-(Will be added after Netlify deployment)
+https://gdg-devdays2026-spoorthy.netlify.app/
 
 ## Project
 Responsive web page created during the workshop session.
